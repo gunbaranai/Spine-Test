@@ -1,0 +1,18 @@
+{
+    "transmogs":[
+
+    ],
+    "owner":"0xfadae26458902e6eaf1415ec02151470a68f8137",
+    "name":"Super%20Chibi",
+    "adult":true,
+    "json":"/rpg/models/chibis/chibi_master.json",
+    "atlas":"/rpg/models/chibis/chibi_master.atlas",
+    "image_png":"/chibis/generated/0/1/9f9af029585ba014e07cd3910ca976cf56160616.png",
+    "texture":"/chibis/generated/0/1/9f9af029585ba014e07cd3910ca976cf56160616_atlas.png",
+    "texture_weapon":"/chibis/weapons/rpg/no_weapon.png",
+    "root":"https://eth.chibifighters.io",
+    "skill":null,
+    "offsets":[
+
+    ]
+}
