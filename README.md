@@ -1,3 +1,3 @@
-# kts-tdc
+# Spine-Test
 
-Please go to https://gunbaranai.github.io/kts-tdc/ to play the demo.
+Made as an application procedure for Chibi Fighters.
